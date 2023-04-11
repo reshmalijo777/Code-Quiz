@@ -18,6 +18,9 @@ Reference taken from:
 GitHub Repository URL:
 https://github.com/reshmalijo777/Code-Quiz
 
+Deployed Page URL:
+https://reshmalijo777.github.io/Code-Quiz/
+
 Demo Image:
 
 ![04-web-apis-homework-demo](https://user-images.githubusercontent.com/128992593/231310638-1771c6be-839a-4d89-bec7-fee38e851cc4.gif)
